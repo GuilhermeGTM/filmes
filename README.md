@@ -12,16 +12,16 @@ Cinema 16 é uma página web onde é possível cadastrar avaliações de seus fi
 
 ## Tecnologias utilizadas:
 
-PHP:
+- PHP:
 
     xampp 8.0
     
-MYSQL:
+- MYSQL:
 
     admin:
     username:
     password:
 
 
-Bootstrap
-JQuery
+- Bootstrap
+- JQuery
