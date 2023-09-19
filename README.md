@@ -25,7 +25,8 @@ Cinema 16 é uma página web onde é possível cadastrar avaliações de seus fi
 
 ## Demonstração
 
-[![Watch the video](./Cinema16.png)](https://www.youtube.com/watch?v=cpxUkrssLGI)
+Clique na imagem para acessar o video:
+[![Watch the video](./figuras/Cinema16.png)](https://www.youtube.com/watch?v=cpxUkrssLGI)
 
 
 ## Tecnologias utilizadas:
@@ -36,9 +37,11 @@ PHP:
 MYSQL:
     <details> 
     <summary>Configurações</summary>
-    admin:
-    username:
-    password:
+    server host: db4free.net <br>
+    port: 3306 <br>
+    database: grupo16_banco <br>
+    user: admin202316 <br>
+    password: admin202316 <br>
 </details> 
 Bootstrap
 
